@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love icecream and sport, contradictory ? Yes !
 
-<img src="https://github-readme-stats.vercel.app/api?username=clementtrecourt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=clementtrecourt&&show_icons=true&title_color=ffffff&icon_color=58a6ff&text_color=daf7dc&bg_color=0d1117">
