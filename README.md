@@ -1,11 +1,9 @@
-### Hi there 👋
+### Salut 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on blockchain developement
-- 🌱 I’m currently learning react
-- 💬 Ask me about crypto
-- 📫 How to reach me: clement.trecourt@gmail.com
-- ⚡ Fun fact: I love icecream and sport, contradictory ? Yes !
+🔭 Je travaille actuellement sur le développement React.
+🌱 J'apprends actuellement React.
+💬 Posez-moi des questions sur la crypto.
+📫 Comment me joindre : clement.trecourt@gmail.com
+⚡ Fun fact : J'adore la glace et le sport, contradictoire ? Oui !
 
 <img src="https://github-readme-stats.vercel.app/api?username=clementtrecourt&&show_icons=true&title_color=ffffff&icon_color=58a6ff&text_color=daf7dc&bg_color=0d1117">
